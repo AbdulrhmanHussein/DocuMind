@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pymongo
+pydantic-settings
+python-dotenv
+python-multipart
+chromadb==1.0.0
+sentence-transformers
+pypdf
+python-docx
+cohere
+streamlit==1.54.0
+requests
