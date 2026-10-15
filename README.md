@@ -259,6 +259,8 @@ Interactive documentation and testing are available via Swagger UI (`/docs`).
 - **Phase 2:** Implement RAG evaluation framework.
 - **Phase 3:** Optimize retrieval quality and chunking strategy.
 - **Phase 4:** Expand automated testing (`pytest`) and robust logging.
+- **Phase 5:** Expand LLM provider support beyond Cohere by integrating additional hosted providers, such as OpenAI and Google Gemini.
+- **Phase 6:** Add support for local LLMs through tools such as Ollama, enabling local inference and greater control over data privacy and deployment.
 
 ---
 
